@@ -1,4 +1,4 @@
-## Kokko - Modelling for field biologists
+## Kokko - Modelling for field biologists an other interesting people
 
 
 # Chapter 1 ---------------------------------------------------------------

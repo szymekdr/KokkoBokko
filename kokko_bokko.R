@@ -1,4 +1,5 @@
-## Kokko - Modelling for field biologists
+## Kokko - Modelling for field biologists an other interesting people
+## Sz Drobniak 2017
 
 
 # Chapter 1 ---------------------------------------------------------------
